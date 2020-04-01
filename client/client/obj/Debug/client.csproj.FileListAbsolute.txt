@@ -8,3 +8,13 @@ D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.csproj.GenerateResource
 D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
 D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.exe
 D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.pdb
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\bin\Debug\client.exe.config
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\bin\Debug\client.exe
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\bin\Debug\client.pdb
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\obj\Debug\client.Form1.resources
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\obj\Debug\client.exe
+C:\Users\Polina\Documents\GitHub\web_server_files\client\client\obj\Debug\client.pdb

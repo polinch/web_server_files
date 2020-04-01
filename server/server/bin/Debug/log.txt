@@ -1,0 +1,49 @@
+--------------------------------------------------------------------
+Server is running 01.04.2020 11:09:23
+Listening mode 01.04.2020 11:09:23
+--------------------------------------------------------------------
+New connection 01.04.2020 11:09:38
+Received data 9 bytes 01.04.2020 11:09:46
+Data sent 37 bytes 01.04.2020 11:09:46
+Received data 8 bytes 01.04.2020 11:09:50
+Data sent 14 bytes 01.04.2020 11:09:50
+Received data 8 bytes 01.04.2020 11:09:57
+Data sent 37 bytes 01.04.2020 11:09:57
+Received data 5 bytes 01.04.2020 11:10:07
+Data sent 37 bytes 01.04.2020 11:10:07
+Received data 4 bytes 01.04.2020 11:10:15
+Data sent 37 bytes 01.04.2020 11:10:15
+--------------------------------------------------------------------
+Server is running 01.04.2020 11:13:04
+Listening mode 01.04.2020 11:13:04
+--------------------------------------------------------------------
+New connection 01.04.2020 11:13:15
+Received data 4 bytes 01.04.2020 11:13:19
+Data sent 14 bytes 01.04.2020 11:13:19
+Received data 5 bytes 01.04.2020 11:13:24
+Data sent 14 bytes 01.04.2020 11:13:24
+Received data 9 bytes 01.04.2020 11:13:28
+Data sent 37 bytes 01.04.2020 11:13:28
+Received data 5 bytes 01.04.2020 11:13:35
+Data sent 12 bytes 01.04.2020 11:13:35
+Received data 5 bytes 01.04.2020 11:13:41
+Data sent 37 bytes 01.04.2020 11:13:41
+Received data 7 bytes 01.04.2020 11:13:51
+Data sent 14 bytes 01.04.2020 11:13:51
+--------------------------------------------------------------------
+New connection 01.04.2020 11:13:57
+Received data 7 bytes 01.04.2020 11:13:58
+Data sent 14 bytes 01.04.2020 11:13:58
+Received data 3 bytes 01.04.2020 11:14:02
+Data sent 14 bytes 01.04.2020 11:14:02
+Received data 5 bytes 01.04.2020 11:14:07
+Data sent 14 bytes 01.04.2020 11:14:07
+Received data 9 bytes 01.04.2020 11:14:11
+Data sent 37 bytes 01.04.2020 11:14:11
+Received data 5 bytes 01.04.2020 11:14:15
+Data sent 37 bytes 01.04.2020 11:14:15
+Received data 5 bytes 01.04.2020 11:14:18
+Data sent 12 bytes 01.04.2020 11:14:18
+Number of connections 2
+Server is stopped 01.04.2020 11:14:25
+--------------------------------------------------------------------
