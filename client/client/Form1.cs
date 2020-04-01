@@ -36,7 +36,21 @@ namespace client
         {
 
             string host = textBox1.Text;
-            int port = Int32.Parse(textBox2.Text);
+            int port;
+            if (host.Equals(""))
+            {
+                MessageBox.Show("Host is empty", "Error", MessageBoxButtons.OK);
+                return;
+            }     
+            try
+            {
+                port = Int32.Parse(textBox2.Text);
+            }
+            catch(FormatException ex)
+            {
+                MessageBox.Show("Port is empty", "Error", MessageBoxButtons.OK);
+                return;
+            }
 
             IPAddress[] IPs = Dns.GetHostAddresses(host);
             socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
@@ -55,6 +69,10 @@ namespace client
         {
             socket.Shutdown(SocketShutdown.Both);
             socket.Close();
+            textBox1.Text = String.Empty;
+            textBox2.Text = String.Empty;
+            textBox3.Text = String.Empty;
+            textBox4.Text = String.Empty;
         }
 
         private void getToolStripMenuItem_Click(object sender, EventArgs e)
@@ -74,7 +92,9 @@ namespace client
             {
                 int bytesSent = socket.Send(message);
                 int bytesReceived = socket.Receive(bytes);
-                textBox4.Text = Encoding.UTF8.GetString(bytes).Trim('\0');
+                textBox3.Text = String.Empty;
+                textBox4.Text = (filename + " contents:\r\n");
+                textBox4.Text += Encoding.UTF8.GetString(bytes).Trim('\0');
             }
             catch (SocketException ex)
             {

@@ -104,6 +104,7 @@ namespace server
                             bytesSent = workSocket.Send(message);
                             logger.logSend(bytesSent);
                             messageStr = "";
+                            filename = "";
 
                         }
                     }
@@ -125,6 +126,7 @@ namespace server
             bCont = false;
             listenSocket.Close();
             logger.logCloseConnection(numberOfConnections);
+            numberOfConnections = 0;
         }
 
         private void button1_Click(object sender, EventArgs e)
