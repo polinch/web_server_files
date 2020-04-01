@@ -1,6 +1,6 @@
 # web_server_files
 University project  
-Workpath for logfile and other files - server/server/bin/Debug/
+Workpath for logfile and other files - [server/server/bin/Debug/](https://github.com/polinch/web_server_files/tree/master/server/server/bin/Debug)
 
 ## Модель веб-сервера
 Клиент посылает запрос Get. – Сервер в ответ передаёт файл с заданным
@@ -22,4 +22,4 @@ Workpath for logfile and other files - server/server/bin/Debug/
   * Клиент пытается установить соединение с незапущенным сервером
   * Клиент пытается отправить пустое имя файла
   * Клиент отправил имя несуществующего файла
-* Рабочая директория для логфайла сервера и файлов, которые на нем хранятся - server/server/bin/Debug/
+* Рабочая директория для логфайла сервера и файлов, которые на нем хранятся - [server/server/bin/Debug/](https://github.com/polinch/web_server_files/tree/master/server/server/bin/Debug)
