@@ -1,29 +1,19 @@
+
 --------------------------------------------------------------------
-<<<<<<< HEAD
-Server is running 01.04.2020 12:20:35
-Listening mode 01.04.2020 12:20:35
+Server is running 01.04.2020 12:27:20
+Listening mode 01.04.2020 12:27:20
 --------------------------------------------------------------------
-New connection 01.04.2020 12:20:38
-Received data 9 bytes 01.04.2020 12:20:46
-Data sent 37 bytes 01.04.2020 12:20:47
-Received data 9 bytes 01.04.2020 12:20:56
-Data sent 12 bytes 01.04.2020 12:20:56
-Number of connections 1
-Server is stopped 01.04.2020 12:21:20
+New connection 01.04.2020 12:27:37
+Received data 9 bytes 01.04.2020 12:27:43
+Data sent 37 bytes 01.04.2020 12:27:43
+Received data 9 bytes 01.04.2020 12:27:50
+Data sent 42 bytes 01.04.2020 12:27:50
 --------------------------------------------------------------------
-=======
-Server is running 01.04.2020 11:13:04
-Listening mode 01.04.2020 11:13:04
->>>>>>> 6ec93fd67882e075f7c3b73f17656378f6ba1e35
---------------------------------------------------------------------
-Server is running 01.04.2020 12:21:42
-Listening mode 01.04.2020 12:21:42
---------------------------------------------------------------------
-New connection 01.04.2020 12:21:45
-Received data 9 bytes 01.04.2020 12:21:53
-Data sent 37 bytes 01.04.2020 12:21:53
-Received data 9 bytes 01.04.2020 12:22:00
-Data sent 12 bytes 01.04.2020 12:22:00
-Number of connections 1
-Server is stopped 01.04.2020 12:22:06
+New connection 01.04.2020 12:28:05
+Received data 9 bytes 01.04.2020 12:28:10
+Data sent 37 bytes 01.04.2020 12:28:10
+Received data 9 bytes 01.04.2020 12:28:16
+Data sent 12 bytes 01.04.2020 12:28:16
+Number of connections 2
+Server is stopped 01.04.2020 12:28:23
 --------------------------------------------------------------------
