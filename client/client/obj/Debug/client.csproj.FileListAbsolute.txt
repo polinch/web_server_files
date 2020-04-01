@@ -1,0 +1,10 @@
+D:\proga c#\8semestr\lab2\client\client\bin\Debug\client.exe.config
+D:\proga c#\8semestr\lab2\client\client\bin\Debug\client.exe
+D:\proga c#\8semestr\lab2\client\client\bin\Debug\client.pdb
+D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.Form1.resources
+D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.Properties.Resources.resources
+D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.exe
+D:\proga c#\8semestr\lab2\client\client\obj\Debug\client.pdb

@@ -1,0 +1,3 @@
+#file2.txt
+#newFile.txt
+#temp.txt

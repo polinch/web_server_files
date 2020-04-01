@@ -1,0 +1,3 @@
+#newFile.txt
+#file1.txt
+#errorFile.txt
